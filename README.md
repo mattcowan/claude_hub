@@ -39,6 +39,16 @@ Optimizes WordPress site performance through:
 - Core Web Vitals improvement
 - Performance auditing and recommendations
 
+### Gravity Forms API Specialist
+**File:** `agents/gravity-forms-agent.md`
+
+Expert in Gravity Forms REST API v2 integration. Specializes in:
+- Efficient data retrieval using `_field_ids` and pagination
+- Cross-referencing data across multiple forms
+- Frontend integration with caching strategies
+- Performance optimization for API queries
+- Best practices for WordPress REST API conventions
+
 ## Skills
 
 Skills are reusable knowledge bases that agents can reference during their work.
@@ -63,6 +73,15 @@ Common accessibility patterns and implementations for WordPress development.
 **Location:** `skills/wordpress-site-speed-auditor/`
 
 Performance auditing tools and techniques for WordPress sites.
+
+### Gravity Forms API
+**Location:** `skills/gravity-forms-api/`
+
+Comprehensive Gravity Forms REST API v2 documentation including:
+- Endpoint reference and authentication
+- Efficient query patterns with field filtering
+- Pagination and caching strategies
+- Cross-form data retrieval examples
 
 ## Usage
 
