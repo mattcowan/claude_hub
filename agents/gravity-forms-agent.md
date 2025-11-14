@@ -32,7 +32,7 @@ system_prompt: |
 
 # Skills to automatically load
 skills:
-  - "gravity-forms-api.skill"
+  - "gravity-forms-api"
 
 # Default behavior settings
 settings:
